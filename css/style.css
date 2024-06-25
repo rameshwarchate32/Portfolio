@@ -244,7 +244,7 @@ section {
     transform: rotate(calc(360deg / 4 * var(--i)));
     transform-origin: 384px;
     background: var(--bg-color);
-    padding: 13px 0;
+    padding: 2px 0;
 }
 
 .home .profession-box .profession:nth-child(1) i {
@@ -289,7 +289,7 @@ section {
 .home-img img {
     position: absolute;
     border-radius: 30%;
-    top: 145px;
+    top: 100px;
     right: 20px;
     pointer-events: none;
     max-width: 480px;
